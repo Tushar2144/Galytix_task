@@ -1,10 +1,13 @@
 # Galytix_task
 Data Engineering Task
 
-Install the following requirement i.e. gensim, word2vec, pandas, numpy and sci-kit learn libraries.\n
-After installing the libraries load the model i.e. Download the pretrained set of Word2Vec vectors from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM\n
-After downloading load the model and in task.ipynb file change the path name according to you directories.
-same goes for streamlit/app.py change path name accordingly there after that install streamlit.
+• Install the following requirement i.e. gensim, word2vec, pandas, numpy and sci-kit learn libraries.
+
+• After installing the libraries load the model i.e. Download the pretrained set of Word2Vec vectors from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM
+
+• After downloading load the model and in task.ipynb file change the path name according to you directories.
+
+• same goes for streamlit/app.py change path name accordingly there after that install streamlit.
 
 # run the following command i.e. streamlit run app.py
 
