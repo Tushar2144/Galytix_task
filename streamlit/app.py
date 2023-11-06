@@ -4,11 +4,11 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 import streamlit as st
 
-# Load the Word2Vec model from directory or model path
-model = gensim.models.KeyedVectors.load_word2vec_format('C:/Users/paltu/anaconda_copy/GoogleNews-vectors-negative300.bin', binary=True)
+# Load the Word2Vec model from directory or model_path
+model = gensim.models.KeyedVectors.load_word2vec_format('model_path/GoogleNews-vectors-negative300.bin', binary=True)
 
 # Load phrases from the CSV file (assumes a 'phrase' column in the CSV) from directory or csv_file_path
-phrases_df = pd.read_csv("C:/Users/paltu/anaconda_copy/phrases.csv", encoding='latin1')
+phrases_df = pd.read_csv("csv_file_path/phrases.csv", encoding='latin1')
 phrases = phrases_df['Phrases'].tolist()
 
 # Assign Word2Vec embeddings to each word in the phrases
