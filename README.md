@@ -11,8 +11,6 @@ run the following command i.e. streamlit run app.py
 
 ![Screenshot 2023-11-06 151728](https://github.com/Tushar2144/Galytix_task/assets/150019993/45dfb38e-128a-4b97-8766-84d0cca4efa6)
 
-![Screenshot 2023-11-06 151728](https://github.com/Tushar2144/Galytix_task/assets/150019993/b072b955-31df-4f17-872c-a927581c3f17)
-
-![Screenshot 2023-11-06 151728](https://github.com/Tushar2144/Galytix_task/assets/150019993/6f931024-8407-4e6a-8d63-1819e5e2101c)
+![Screenshot 2023-11-06 152009](https://github.com/Tushar2144/Galytix_task/assets/150019993/295d9d2c-6978-4ea5-aeca-0ad41b021e42)
 
 ![Screenshot 2023-11-06 152315](https://github.com/Tushar2144/Galytix_task/assets/150019993/58d27bd4-b7ce-47c8-9c99-a956b4ca0ba1)
